@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/heights-shop/static/css/main.4d134948.css",
+    "main.js": "/heights-shop/static/js/main.aec9ebb5.js",
+    "static/js/453.cba865e1.chunk.js": "/heights-shop/static/js/453.cba865e1.chunk.js",
+    "index.html": "/heights-shop/index.html",
+    "main.4d134948.css.map": "/heights-shop/static/css/main.4d134948.css.map",
+    "main.aec9ebb5.js.map": "/heights-shop/static/js/main.aec9ebb5.js.map",
+    "453.cba865e1.chunk.js.map": "/heights-shop/static/js/453.cba865e1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d134948.css",
+    "static/js/main.aec9ebb5.js"
+  ]
+}
